@@ -13,7 +13,7 @@
 🎓 在读大学生<br>
 💻 前端开发 & 深度学习<br>
 ⚡ 日常开发：Vue / JavaScript 做前端项目<br>
-🤖 深度学习：Python + PyTorch，Jupyter完成实验与数据分析<br>
+🤖 深度学习：Python + PyTorch 完成实验与数据分析<br>
 📝 持续学习，沉淀代码，记录成长足迹✨
 </p>
 
@@ -34,8 +34,8 @@
 ## 📌 Featured Projects
 | 图标 | 项目名称 | 项目描述 | 技术栈 |
 | ---- | ---- | ---- | ---- |
-| 🧠 | [Name_Country_Classify_RNN_LSTM_GRU](https://github.com/Lucky-up/Name_Country_Classify_RNN_LSTM_GRU) | 基于RNN/LSTM/GRU循环神经网络实现姓名国别分类 | Python, PyTorch, Jupyter |
-| 🔢 | [mnist-cnn-digit-recognition](https://github.com/Lucky-up/mnist-cnn-digit-recognition) | CNN卷积神经网络完成MNIST手写数字图像识别 | Python, PyTorch, CNN, Jupyter |
+| 🧠 | [Name_Country_Classify_RNN_LSTM_GRU](https://github.com/Lucky-up/Name_Country_Classify_RNN_LSTM_GRU) | 基于RNN/LSTM/GRU循环神经网络实现姓名国别分类 | Python, PyTorch |
+| 🔢 | [mnist-cnn-digit-recognition](https://github.com/Lucky-up/mnist-cnn-digit-recognition) | CNN卷积神经网络完成MNIST手写数字图像识别 | Python, PyTorch, CNN|
 
 ---
 
