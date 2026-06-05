@@ -10,11 +10,9 @@
 
 ## 🧑‍💻 About Me
 <p align="left">
-🎓 在读大学生<br>
+🎓 本科在读<br>
 💻 前端开发 & 深度学习<br>
-⚡ 日常开发：Vue / JavaScript 做前端项目<br>
-🤖 深度学习：Python + PyTorch 完成实验与数据分析<br>
-📝 持续学习，沉淀代码，记录成长足迹✨
+📝 持续学习，记录成长足迹✨
 </p>
 
 ---
@@ -26,10 +24,10 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Transformer-222222?style=for-the-badge&logo=openai&logoColor=white" />
 </div>
 
 ---
-
 
 ## 📌 Featured Projects
 | 图标 | 项目名称 | 项目描述 | 技术栈 |
