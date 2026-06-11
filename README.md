@@ -32,6 +32,8 @@
 ## 📌 Featured Projects
 | 图标 | 项目名称 | 项目描述 | 技术栈 |
 | ---- | ---- | ---- | ---- |
+| 🌐 | [seq2seq-eng-fra-translate](https://github.com/Lucky-up/seq2seq-eng-fra-translate) | 基于Seq2Seq模型实现英法机器翻译任务 | Python, PyTorch, Seq2Seq, GRU |
+| 🤖 | [transformer-pytorch-implement](https://github.com/Lucky-up/transformer-pytorch-implement) | 从零手写PyTorch原版Transformer完整代码实现 | Python, PyTorch, Transformer|
 | 🧠 | [Name_Country_Classify_RNN_LSTM_GRU](https://github.com/Lucky-up/Name_Country_Classify_RNN_LSTM_GRU) | 基于RNN/LSTM/GRU循环神经网络实现姓名国别分类 | Python, PyTorch |
 | 🔢 | [mnist-cnn-digit-recognition](https://github.com/Lucky-up/mnist-cnn-digit-recognition) | CNN卷积神经网络完成MNIST手写数字图像识别 | Python, PyTorch, CNN|
 
